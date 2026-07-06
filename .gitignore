@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.pyc
+build/
+install/
+log/
+.ros/
+.DS_Store
