@@ -12,6 +12,12 @@ I own Unitree GO2 Air hardware and am preparing this repository as a public-safe
 
 This repository is not presented as a shipped robotics product. It is a roadmap and learning repository for future public evidence.
 
+## Why I Acquired GO2
+
+I self-funded and personally acquired Unitree GO2 Air to validate whether AI Agent workflows can be connected to physical systems through careful architecture, command schemas, safety boundaries, and human oversight.
+
+For me, GO2 is practical research evidence: it shows commitment to learning robotics beyond slides or simulated product ideas. The current status remains research / roadmap, and I do not claim completed ROS2 integration, autonomous navigation, or a shipped robotics product.
+
 ## Why This Matters
 
 My AI work has focused on agent workflows, verification, infrastructure boundaries, and product delivery. GO2 Agent Lab is the next research direction: connecting AI Agent Workflow with physical robotics through clear command schemas, safety boundaries, ROS2 learning, and demo-ready validation.
@@ -41,11 +47,14 @@ The goal is to move carefully from software agent design toward embodied AI with
 ## Repository Contents
 
 - [Roadmap](docs/ROADMAP.md)
+- [Milestones](docs/MILESTONES.md)
+- [Lab note 001: hardware setup](docs/LAB_NOTE_001_HARDWARE_SETUP.md)
 - [Hardware notes](docs/HARDWARE_NOTES.md)
 - [TRACE / GO2 architecture](docs/TRACE_GO2_ARCHITECTURE.md)
 - [ROS2 learning plan](docs/ROS2_LEARNING_PLAN.md)
 - [Career mapping](docs/CAREER_MAPPING.md)
 - [Assets notes](assets/README.md)
+- [Photo safety notes](assets/photos/README.md)
 
 ## Claim Boundary
 
