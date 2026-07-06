@@ -14,9 +14,9 @@ This repository is not presented as a shipped robotics product. It is a roadmap 
 
 ## Why I Acquired GO2
 
-I self-funded and personally acquired Unitree GO2 Air to validate whether AI Agent workflows can be connected to physical systems through careful architecture, command schemas, safety boundaries, and human oversight.
+I bought a Unitree GO2 Air because I did not want my embodied AI work to stay as slides or diagrams. I want to learn with real hardware, document the process, and only make claims after I can verify them.
 
-For me, GO2 is practical research evidence: it shows commitment to learning robotics beyond slides or simulated product ideas. The current status remains research / roadmap, and I do not claim completed ROS2 integration, autonomous navigation, or a shipped robotics product.
+The current status remains research / roadmap. I do not claim completed ROS2 integration, autonomous navigation, or a shipped robotics product.
 
 ## Why This Matters
 
@@ -52,21 +52,15 @@ The goal is to move carefully from software agent design toward embodied AI with
 - [Hardware notes](docs/HARDWARE_NOTES.md)
 - [TRACE / GO2 architecture](docs/TRACE_GO2_ARCHITECTURE.md)
 - [ROS2 learning plan](docs/ROS2_LEARNING_PLAN.md)
-- [Career mapping](docs/CAREER_MAPPING.md)
+- [How this project fits my work](docs/CAREER_MAPPING.md)
 - [Assets notes](assets/README.md)
 - [Photo safety notes](assets/photos/README.md)
 
 ## Claim Boundary
 
-This repository does not claim completed autonomous navigation, production robotics deployment, or finished ROS2 integration.
+This is an early research log. It does not claim completed ROS2 integration, autonomous navigation, or production robotics deployment. Sensitive identifiers and unsafe control details are intentionally excluded.
 
-It also does not expose private credentials, private infrastructure, robot serial identifiers, or unsafe hardware-control instructions.
-
-## Portfolio Ecosystem
+## Related Projects
 
 - GitHub Profile: https://github.com/0xChrisSKR
 - TRACE AI Platform: https://github.com/0xChrisSKR/trace-ai-platform-showcase
-- TRACE ProofFeed: https://github.com/TRACE-CChain-Labs/trace-prooffeed-solana-agent
-- Immune RPC Gate: https://github.com/0xChrisSKR/immune-rpc-gate
-- C-Chain System: https://github.com/0xChrisSKR/cchain-system-showcase
-- WorldPeace DAO: https://github.com/0xChrisSKR/worldpeace-dao-showcase
