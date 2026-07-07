@@ -24,6 +24,13 @@ My AI work has focused on agent workflows, verification, infrastructure boundari
 
 The goal is to move carefully from software agent design toward embodied AI without overstating what has already been completed.
 
+## Current Hardware Work
+
+- Unitree GO2 Air hardware is owned.
+- GO2 extension platform work is in progress.
+- A 3D printed mounting plate is being designed for future expansion experiments.
+- Hardware notes will stay public-safe: no serial numbers, private locations, unsafe control instructions, or private network details.
+
 ## Planned Stack
 
 - Unitree GO2 Air
@@ -41,8 +48,9 @@ The goal is to move carefully from software agent design toward embodied AI with
 2. ROS2 basics
 3. GO2 connectivity
 4. Function Calling to robot command schema
-5. TRACE Agent Skill integration
-6. Demo video
+5. GO2 extension platform / mounting plate documentation
+6. TRACE Agent Skill integration
+7. Demo video
 
 ## Repository Contents
 

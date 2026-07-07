@@ -81,7 +81,24 @@ Evidence to add later:
 - Skill boundary notes
 - Risk review
 
-## M6 Demo Video
+## M6 GO2 Extension Platform / Mounting Plate
+
+Status: in progress
+
+Goal:
+
+- Document the GO2 extension platform direction.
+- Design a 3D printed mounting plate for future public-safe expansion experiments.
+- Keep the work mechanical / research-oriented until hardware, safety, and software boundaries are verified.
+
+Evidence to add later:
+
+- Public-safe mounting plate notes
+- Non-sensitive photos
+- Design lessons learned
+- What the extension does and does not prove
+
+## M7 Demo Video
 
 Status: planned
 
