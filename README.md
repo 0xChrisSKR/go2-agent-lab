@@ -29,6 +29,7 @@ The goal is to move carefully from software agent design toward embodied AI with
 - Unitree GO2 Air hardware is owned.
 - GO2 extension platform work is in progress.
 - A 3D printed mounting plate is being designed for future expansion experiments.
+- UAV / Edge AI and low-altitude logistics remain research directions, not completed deployments.
 - Hardware notes will stay public-safe: no serial numbers, private locations, unsafe control instructions, or private network details.
 
 ## Planned Stack
